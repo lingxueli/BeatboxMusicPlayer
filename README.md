@@ -1,9 +1,5 @@
 # BeatboxMusicPlayer
 
-This is my project using Java Swing, GUI, I/O, networking and threads to build a beatbox application. 
+It is a PC digital beatbox developed in Java. Users could create and modify beat patterns and share beat patterns along with messages to each other. The beat pattern consists of 16 beats and 16 instruments.
 
-The application implements multiplayer network system with I/O techniques that is able to send and receive beat patterns, along with messages among users. 
-
-It supports features of creating sound patterns across 16 beats made of 16 instruments using MIDI (Musical Instrument Digital Interface). 
-
-Try it on your machine. So much fun.:0)
+Main techniques involves multithread programming, clients side and server side communication, GUI, and Musical Digital interface programming.
